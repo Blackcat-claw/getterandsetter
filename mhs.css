@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    padding: 0;
+    /*background: url(background.jpg);
+    background-size: cover;
+    background-position: center;*/
+    font-family: sans-serif;
+}
+
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color: #fff;
+    margin: 50px  auto 20px auto;
+	position: relative;
+    box-sizing: border-box;
+    padding: 30px 30px;
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.loginbox input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    color: #fff;
+    font-size: 16px;
+}
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #4753c0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.loginbox input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #05d4f0;
+    color: #000;
+}
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: rgb(25, 22, 206);
+}
+
+.loginbox a:hover
+{
+    color: #079cff;
+}
+
+ /*TABLE */
+ * {
+	font-family: sans-serif; /* Change your font family */
+  }
+  .content-table {
+	border-radius:20px;
+	margin-left:auto; 
+	margin-right:auto;
+  }
+  .content-table {
+	border-collapse: collapse;
+	margin: 25px auto;
+	font-size: 0.9em;
+	min-width: 100px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .content-table thead tr {
+	background-color: #151616;
+	color: #ffffff;
+	text-align: left;
+	font-weight: bold;
+  }
+  
+  .content-table th,
+  .content-table td {
+	padding: 12px 15px;
+  }
+  
+  .content-table tbody tr {
+	border-bottom: 1px solid #dddddd;
+  }
+  
+  .content-table tbody tr:nth-of-type(even) {
+	background-color: #e4e4e4;
+  }
+  
+  .content-table tbody tr:last-of-type {
+	border-bottom: 2px solid #151616;
+  }
+  
+  .content-table tbody tr.active-row {
+	font-weight: bold;
+	color: #151616;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
